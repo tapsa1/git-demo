@@ -23,3 +23,6 @@ Test something
     click link  xpath=//*[@id='nav-al-wishlist']/a[1]/span
     sleep  5s
     close browser
+
+Test TODO
+    log info    TODO
