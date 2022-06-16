@@ -26,5 +26,6 @@ Test something
     close browser
 
 Test TODO
-    log info    mehiläisvalvonta testi muokattu
-	log info    mehiläisvalvonta
+    log info    mehiläisvalvonta 
+	log info    mehiläisvalvonta muokattu
+	log info    notepad
