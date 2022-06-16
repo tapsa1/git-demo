@@ -6,7 +6,7 @@ Resource  ../Resources/Common.robot
 
 *** Variables ***
 ${URL}=  http://www.amazon.com
-${BROWSERI}=  ff
+${BROWSERI}=  gc
 
 
 *** Test Cases ***
@@ -28,3 +28,6 @@ Test something
 Test TODO
     log info    mehiläisvalvonta testi muokattu
 	log info    mehiläisvalvonta
+	
+Test gihub
+    log info    added in github
